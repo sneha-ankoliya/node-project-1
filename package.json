@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.2.1",
+    "range-parser": "^1.2.1",
+    "raw-body": "^3.0.2",
+    "router": "^2.2.0",
+    "safer-buffer": "^2.1.2",
+    "send": "^1.2.0",
+    "serve-static": "^2.2.0",
+    "setprototypeof": "^1.2.0",
+    "side-channel": "^1.1.0",
+    "side-channel-list": "^1.0.0",
+    "side-channel-map": "^1.0.1",
+    "side-channel-weakmap": "^1.0.2",
+    "statuses": "^2.0.2",
+    "toidentifier": "^1.0.1",
+    "type-is": "^2.0.1",
+    "unpipe": "^1.0.0",
+    "vary": "^1.1.2",
+    "wrappy": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
